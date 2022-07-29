@@ -1,0 +1,2 @@
+# modelsim_script_run
+一个简单的脚本运行modelsim仿真的例子
